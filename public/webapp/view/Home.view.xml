@@ -1,0 +1,20 @@
+<mvc:View
+	controllerName="dev.ui.controller.Home"
+	displayBlock="true"
+	xmlns:l="sap.ui.layout"
+	xmlns:u="sap.ui.unified"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc">
+
+	<Page
+		id="page"
+		title="{i18n>title}">
+
+		<content>
+
+			<Text text="{/text}"/>
+
+		</content>
+
+	</Page>
+</mvc:View>

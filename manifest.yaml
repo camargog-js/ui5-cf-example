@@ -1,0 +1,6 @@
+---
+applications:
+- name: ui
+  random-route: true
+  path: .
+  memory: 128M

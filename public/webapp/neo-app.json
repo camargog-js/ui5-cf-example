@@ -1,0 +1,12 @@
+{
+	"routes": [
+		{
+			"path": "/api",
+			"target": {
+				"type": "destination",
+				"name": "api"
+			},
+			"description": ""
+		}
+	]
+}
